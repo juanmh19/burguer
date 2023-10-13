@@ -71,7 +71,7 @@ font-family: 'Playfair Display', serif;
 
 .hero {
     height: 92vh;
-    background-image: url(assets/imgs/hamb.webp);
+    background: url(assets/imgs/hamb.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
